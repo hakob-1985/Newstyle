@@ -1,0 +1,28 @@
+ 
+*{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+
+    
+
+    
+}
+
+.first-new{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/Group\ 7.jpg") no-repeat center  center/ cover;
+
+    &-navigation{
+        ul{
+            display: flex;
+            justify-content: space-between;
+
+            width: 233px;
+        }
+    }
+
+}
+
